@@ -1,6 +1,6 @@
 # Rocketseat's DoWhile'21 - Micro Front-ends Workshop
 
-### by Victor Alencar
+### by Vitor Alencar
 
 This is a example application developed during this workshop. It has the goal of implementing the Micro Front=ends Archtecture.
 The 'host' receives all the other apps such as 'dsl' (design system, eg).
